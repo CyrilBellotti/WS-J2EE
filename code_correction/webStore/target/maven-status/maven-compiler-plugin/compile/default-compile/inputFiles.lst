@@ -1,0 +1,15 @@
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/PaymentOperationResponse.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/src/main/java/com/store/business/logic/Soap.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/BankingEndpoint.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/src/main/java/com/store/model/PaymentOrderBean.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/src/main/java/com/store/model/PaymentBean.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/src/main/java/com/store/business/logic/PaymentValidator.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/src/main/java/com/store/business/logic/Rest.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/PaymentOperation.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/BankingService.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/ObjectFactory.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/src/main/java/com/store/business/logic/RestPaymentValidator.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/src/main/java/com/store/model/PaymentOrder.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/src/main/java/com/store/config/RestClientFactory.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/src/main/java/com/store/business/logic/SoapPaymentValidator.java
+/home/cesi/code/tutoDAD/correctionTutoDAD/code_correction/v1/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/package-info.java

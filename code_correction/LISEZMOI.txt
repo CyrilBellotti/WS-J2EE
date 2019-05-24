@@ -1,0 +1,7 @@
+codes sources DAD
+contient les projets testés dans les domaines locaux
+
+
+Assignez chaque projet Maven au domaine serveur dans lequel il doit être déployé :
+clic <droite> sur le projet | Properties | Run | sélection du domaine dans le menu déroulant
+

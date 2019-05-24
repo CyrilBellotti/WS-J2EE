@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf91ee98-7c62-4a84-a476-e9045dbf54d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LISEZMOI.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/nb-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/src/main/java/com/bank/paymentmgmt/logic/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/target/bankBusiness-ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/target/classes/com/bank/paymentmgmt/logic/PaymentProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/target/endorsed/javaee-endorsed-api-7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankBusiness-ejb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/nb-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/domain/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/domain/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/facade/BankingServiceBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/facade/BankingServiceEndpointInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/facade/BankingServiceRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/integration/MapPaymentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/integration/PaymentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/bankFacade-ejb-client.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/bankFacade-ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/classes/com/bank/paymentmgmt/domain/Payment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/classes/com/bank/paymentmgmt/domain/PaymentStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/classes/com/bank/paymentmgmt/facade/BankingServiceBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/classes/com/bank/paymentmgmt/facade/BankingServiceEndpointInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/classes/com/bank/paymentmgmt/facade/BankingServiceRemote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/classes/com/bank/paymentmgmt/integration/MapPaymentDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/classes/com/bank/paymentmgmt/integration/PaymentDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/endorsed/javaee-endorsed-api-7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-ejb/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/nb-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/src/main/java/com/bank/paymentmgmt/facade/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/src/main/java/com/bank/paymentmgmt/facade/PaymentResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/bankFacade-war.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/bankFacade-war/WEB-INF/classes/com/bank/paymentmgmt/facade/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/bankFacade-war/WEB-INF/classes/com/bank/paymentmgmt/facade/PaymentResource$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/bankFacade-war/WEB-INF/classes/com/bank/paymentmgmt/facade/PaymentResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/bankFacade-war/WEB-INF/glassfish-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/bankFacade-war/WEB-INF/lib/bankFacade-ejb-1.0-SNAPSHOT-client.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/bankFacade-war/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/classes/com/bank/paymentmgmt/facade/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/classes/com/bank/paymentmgmt/facade/PaymentResource$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/classes/com/bank/paymentmgmt/facade/PaymentResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/endorsed/javaee-endorsed-api-7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankFacade-war/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/faces-config.NavData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/nb-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/jax-ws-catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/java/com/store/business/logic/PaymentValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/java/com/store/business/logic/Rest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/java/com/store/business/logic/RestPaymentValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/java/com/store/business/logic/Soap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/java/com/store/business/logic/SoapPaymentValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/java/com/store/config/RestClientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/java/com/store/model/PaymentBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/java/com/store/model/PaymentOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/java/com/store/model/PaymentOrderBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/webapp/admin/paymentAdmin.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/webapp/error.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/webapp/payment.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/main/webapp/success.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/wsdl/localhost_11080/BankingService/BankingServiceBean.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/src/wsdl/localhost_11080/BankingService/BankingServiceBean.xsd_1.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/business/logic/PaymentValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/business/logic/Rest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/business/logic/RestPaymentValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/business/logic/Soap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/business/logic/SoapPaymentValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/config/RestClientFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/integration/BankingEndpoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/integration/BankingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/integration/ObjectFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/integration/PaymentOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/integration/PaymentOperationResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/integration/package-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/model/PaymentBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/model/PaymentOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/classes/com/store/model/PaymentOrderBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/endorsed/javaee-endorsed-api-7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/BankingEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/BankingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/PaymentOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/PaymentOperationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/generated-sources/jaxws-wsimport/com/store/integration/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/jaxws/stale/BankingServiceBean.stale/.3ba2500f315d27abfcf3b773572b7aea3dba183a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/META-INF/jax-ws-catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/META-INF/wsdl/localhost_11080/BankingService/BankingServiceBean.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/META-INF/wsdl/localhost_11080/BankingService/BankingServiceBean.xsd_1.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/business/logic/PaymentValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/business/logic/Rest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/business/logic/RestPaymentValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/business/logic/Soap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/business/logic/SoapPaymentValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/config/RestClientFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/integration/BankingEndpoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/integration/BankingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/integration/ObjectFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/integration/PaymentOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/integration/PaymentOperationResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/integration/package-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/model/PaymentBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/model/PaymentOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/classes/com/store/model/PaymentOrderBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/glassfish-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/jax-ws-catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/wsdl/localhost_11080/BankingService/BankingServiceBean.wsdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/WEB-INF/wsdl/localhost_11080/BankingService/BankingServiceBean.xsd_1.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/admin/paymentAdmin.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/error.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/payment.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webStore/target/webStore/success.xhtml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code_correction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_correction" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf91ee98-7c62-4a84-a476-e9045dbf54d0" name="Default Changelist" comment="" />
+      <created>1558681527057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558681527057</updated>
+      <workItem from="1558681528297" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="95000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32923833" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
